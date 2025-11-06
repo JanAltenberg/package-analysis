@@ -140,7 +140,6 @@ FileChecksum: MD5: 1cacc9b085a45499238535597d34ec40
 LicenseConcluded: LicenseRef-BSD-4-Clause-UC-60551678019ffd3e8ef6c998e11344d3 AND LicenseRef-GPL-2.0-or-later AND LicenseRef-LGPL-2.1-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-LGPL-2.1-or-later
-LicenseInfoInFile: LicenseRef-GPL-2.0-only
 LicenseInfoInFile: LicenseRef-BSD-3-Clause
 LicenseInfoInFile: LicenseRef-BSD-3-Clause-HP
 FileCopyrightText: <text> Copyright (C) 1999 by Randolph Chung <tausq@debian.org>
