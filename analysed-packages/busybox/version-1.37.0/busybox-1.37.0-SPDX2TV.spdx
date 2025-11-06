@@ -138,7 +138,7 @@ FileChecksum: SHA1: d57d42c44dffe9d75340328f507aab4d5f4b3345
 FileChecksum: SHA256: e0f0641b1cc92f22143906ba63635b650d596d616f760cd397ec32710f905a2d
 FileChecksum: MD5: 1cacc9b085a45499238535597d34ec40
 LicenseConcluded: LicenseRef-BSD-4-Clause-UC-60551678019ffd3e8ef6c998e11344d3 AND LicenseRef-GPL-2.0-or-later AND LicenseRef-LGPL-2.1-or-later
-LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
+LicenseInfoInFile: LicenseRef-GPL-2.0
 LicenseInfoInFile: LicenseRef-LGPL-2.1-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0-only
 LicenseInfoInFile: LicenseRef-BSD-3-Clause
