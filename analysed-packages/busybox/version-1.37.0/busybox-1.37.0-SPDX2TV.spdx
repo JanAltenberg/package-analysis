@@ -123,7 +123,6 @@ FileChecksum: SHA1: 0e89595b8bf1ea3dc0482ccd5ef5ab77cd0456de
 FileChecksum: SHA256: 4bb46a66971f864c4e7ebb05e0e1070aa927b3d856f6a026ba7c23cffe4a3208
 FileChecksum: MD5: 6611f8a5515c749accfb511d3a32680c
 LicenseConcluded: LicenseRef-GPL-2.0-only AND LicenseRef-HPND-Markus-Kuhn-69056019a7e11459c6ebbd30becd17b0
-LicenseInfoInFile: LicenseRef-GPL-2.0-or-later
 LicenseInfoInFile: LicenseRef-GPL-2.0-only
 LicenseInfoInFile: LicenseRef-X11-style
 LicenseInfoInFile: LicenseRef-scancode-markus-kuhn-license
